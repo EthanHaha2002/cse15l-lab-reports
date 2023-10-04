@@ -6,10 +6,11 @@ Example screenshot for ls:
 
 Code block
 ---
+![Image](ls_codeblock.jpg)
 
 Output
 ---
-
+![Image](ls_output.jpg)
 
 
 Example screenshot for cd:
@@ -18,9 +19,11 @@ Example screenshot for cd:
 
 Code block
 ---
+![Image](cd_codeblock.jpg)
 
 Output
 ---
+![Image](cd_output.jpg)
 
 Example screenshot for cat:
 ---
@@ -28,6 +31,8 @@ Example screenshot for cat:
 
 Code block
 ---
+![Image](cat_codeblock.jpg)
 
 Output
 ---
+![Image](cat_output.jpg)
