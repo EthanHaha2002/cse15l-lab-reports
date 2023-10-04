@@ -1,5 +1,10 @@
 # Lab Report 1
 
+***ls:***
+ls Lecture1 worked as Lecture1 is a directory and it listed the paths that you could take from Lecture1.
+When there's no argument, it'll show wherever you are as it'll list out your paths. 
+
+
 Example screenshot for ls:
 ---
 ![Image](ls_example.jpg)
