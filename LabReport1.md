@@ -6,7 +6,8 @@ Example screenshot for ls:
 
 Example screenshot for cd:
 ---
-
+![Image](cd_example.jpg)
 
 Example screenshot for cat:
 ---
+![Image](cat_example2.jpg)
