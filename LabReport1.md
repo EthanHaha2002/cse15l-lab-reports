@@ -1,6 +1,6 @@
 # Lab Report 1
 
-##ls:
+## ls:
 ---
 Example screenshot for ls:
 ---
