@@ -34,15 +34,15 @@ Example screenshot for cd:
 
 no argument
 ---
-The working directory is /home. There is no output as you're not changing directories. No output.
+The working directory is /home. There is no output as it moves to a new command line but using cd without an argument anywhere other than the home directory will return you back to the home directory. No output error.
 
 with directory argument
 ---
-The working directory is now "/home/lecture1" and there is not output besides the indicator that you are now working in a new directory. No output.
+The working directory is now "/home/lecture1" and there is not output besides the indicator that you are now working in a new directory. No output error.
 
 with path to file argument
 ---
-The working directory is still going to be "/home/lecture1"
+The working directory is still going to be "/home/lecture1". There is an output error indicating that the command is not possible as you're attempting to change directories into a file which is not a directory.
 
 Code block
 ---
