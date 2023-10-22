@@ -73,4 +73,4 @@ Code block
 
 Output
 ---
-![Image](cat_output.jpg)
+![Image](lab1catresubmit.jpg)
