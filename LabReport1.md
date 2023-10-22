@@ -58,16 +58,15 @@ Example screenshot for cat:
 
 no argument
 ---
-The working directory would be "/home". There wouldn't be an output at first-- it'd be empty but as soon as you type a word it will print out the same word right after.
+The working directory would be "/home". There wouldn't be an output at first-- it'd be empty but as soon as you type a word it will print out the same word right after. Not an output error.
 
 with directory argument
 ---
-The working directory would actually be "/home" here. The message "lecture1 is a directory" would print as there is nothing to concatenate.
+The working directory would actually be "/home" here. The message "lecture1 is a directory" would print as there is nothing to concatenate which is an output error.
 
 with path to file argument
 ---
-The working directory would be "/home/lecture1/messages". The output was "ls" for me.
-
+The working directory would be "/home/lecture1/messages". The output was ¡Hola Mundo!. There is no output error.
 Code block
 ---
 ![Image](cat_codeblock.jpg)
